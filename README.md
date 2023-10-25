@@ -38,7 +38,7 @@ The "RestCountry Explorer" is a web application that leverages HTML, CSS, and Ja
  
 ## Contributing
 
-If you'd like to contribute to this project, please [open an issue](is:open is:issue author:Aki12-3 archived:false ) or [create a pull request](https://github.com/Aki12-3/RestCountry/pulls).
+If you'd like to contribute to this project, please [open an issue](https://github.com/yourusername/your-repo/issues) ) or [create a pull request](https://github.com/Aki12-3/RestCountry/pulls).
 
  
 ## Acknowledgments
