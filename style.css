@@ -1,0 +1,46 @@
+/* written by Ankit kumar Yadav//ankitkryad@gmail.com */
+*{
+    margin: 0;
+
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+}
+.first,.second{
+    width: 90%;
+    margin: auto;
+}
+.first form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* background-color: red; */
+}
+.first input{
+    width: 80%;
+    padding: 10px;
+}
+.first button{
+    width: 15%;
+    background-color: green;
+    color: white;
+    border: none;
+}
+.second table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.second tr{
+    background-color: bisque;
+}
+.second tr:nth-child(odd){
+    background-color: rgb(159, 152, 142);
+}
+.second th,td{
+    padding: 10px;
+}
+.second a{
+    text-decoration: none;
+}
+/* written by Ankit kumar Yadav//ankitkryad@gmail.com */
